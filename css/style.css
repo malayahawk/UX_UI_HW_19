@@ -1,0 +1,80 @@
+.content {
+    padding: 100px;
+}
+
+.cardContainer {
+    text-align: center;
+}
+
+.cardContainer {
+    margin-top: 20px;
+}
+
+.card {
+    margin: 0 auto;
+}
+
+.jumbotron {
+
+    display: flex;
+    flex-wrap: nowrap;
+}
+
+
+.container {
+    border-style: solid;
+    border-color: white;
+    width: 69%;
+    justify-content: center;
+    align-items: center;
+    text-align: justify;
+    display: inline-block;
+    padding: 50px;
+}
+
+.display-4 {
+    color: white;
+}
+
+.lead {
+    color: white;
+}
+
+.container2 {
+    border-style: solid;
+    border-color: white;
+    width: 30%;
+    justify-content: center;
+    align-items: center;
+    text-align: justify;
+    display: inline-block;
+    padding: 50px;
+
+}
+
+.card {
+    border-radius: 0;
+    margin: 0.3em;
+}
+
+
+
+
+.nav-link {
+    color: white;
+}
+
+body {
+    background-color: black;
+}
+
+.caseStudyphoto {
+    background-image: url(../images/caseStudypng.png);
+    background-size:contain;
+    background-repeat: no-repeat;
+    height: calc(70vh - 25px);
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+}
